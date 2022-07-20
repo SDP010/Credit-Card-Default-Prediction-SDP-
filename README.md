@@ -14,6 +14,12 @@ To reduce the risk of Banks, this model has been developed to predict customer d
 ## Dataset Information
 This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in _Taiwan from April 2005 to September 2005_.
 
+## Documentations:
+1. HLD : https://drive.google.com/file/d/1q3MJ2XbhQmIrwAgGjrVt9wHUHTWT9olg/view?usp=sharing
+2. LLD : https://drive.google.com/file/d/1pwAHeGs_awqNvD-GjXQdmXo4j6JZmMSB/view?usp=sharing
+3. DPR : https://drive.google.com/file/d/1NFH9bNqr4SF1nTB5QMykcO_OyvvQjuq1/view?usp=sharing
+4. Wireframe : https://drive.google.com/file/d/1XVpKViXmFe_Lcz6acAJIs6PCp7uRpAiM/view?usp=sharing
+
 ## Technical Aspect
 1. Dividing the training data into clusters and build best fitted model for each cluster ( using Random Forest and SVM algorithm) in order to make a robust model to predict defaulter as accurate as possible.
 	- Cleaning the datasets, fixing all features
