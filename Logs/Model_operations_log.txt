@@ -1,0 +1,110 @@
+2022-07-15/21:58:38		the model saved into file KMeans
+2022-07-15/21:59:33		the model saved into file SVM0
+2022-07-15/21:59:36		the model saved into file SVM2
+2022-07-15/21:59:52		the model saved into file SVM1
+2022-07-15/21:59:59		the model saved into file SVM3
+2022-07-15/22:14:43		the model saved into file KMeans
+2022-07-15/22:15:38		the model saved into file SVM0
+2022-07-15/22:15:41		the model saved into file RandomForest2
+2022-07-15/22:15:57		the model saved into file SVM1
+2022-07-15/22:16:04		the model saved into file SVM3
+2022-07-15/22:49:09		the model saved into file KMeans
+2022-07-15/22:50:04		the model saved into file SVM0
+2022-07-15/22:50:07		the model saved into file SVM2
+2022-07-15/22:50:23		the model saved into file SVM1
+2022-07-15/22:50:30		the model saved into file SVM3
+2022-07-15/23:12:49		the model saved into file KMeans
+2022-07-15/23:13:42		the model saved into file SVM0
+2022-07-15/23:13:46		the model saved into file SVM2
+2022-07-15/23:14:01		the model saved into file SVM1
+2022-07-15/23:14:08		the model saved into file SVM3
+2022-07-15/23:37:07		the model saved into file KMeans
+2022-07-15/23:38:00		the model saved into file SVM0
+2022-07-15/23:38:04		the model saved into file SVM2
+2022-07-15/23:38:19		the model saved into file SVM1
+2022-07-15/23:38:26		the model saved into file SVM3
+2022-07-16/00:20:27		Model File KMeans saved
+2022-07-16/00:23:53		Model File KMeans saved
+2022-07-16/00:27:31		Model File KMeans saved
+2022-07-16/00:28:08		Model File KMeans saved
+2022-07-16/00:31:15		Model File KMeans saved
+2022-07-16/00:32:08		Model File KMeans saved
+2022-07-16/00:33:29		Model File KMeans saved
+2022-07-16/00:34:53		Model File KMeans saved
+2022-07-16/00:36:25		Model File KMeans saved
+2022-07-16/00:39:45		Model File KMeans saved
+2022-07-16/00:44:30		Model File KMeans saved
+2022-07-16/00:44:30		Correct model loaded
+2022-07-16/00:44:30		Model File SVM0 saved
+2022-07-16/00:45:43		Model File KMeans saved
+2022-07-16/00:45:43		Correct model loaded
+2022-07-16/00:45:43		Model File SVM0 saved
+2022-07-16/00:45:43		Correct model loaded
+2022-07-16/00:45:43		Model File SVM2 saved
+2022-07-16/00:45:43		Correct model loaded
+2022-07-16/00:45:43		Model File SVM1 saved
+2022-07-16/00:45:43		Correct model loaded
+2022-07-16/00:45:43		Model File SVM3 saved
+2022-07-16/01:40:15		the model saved into file KMeans
+2022-07-16/01:41:09		the model saved into file SVM0
+2022-07-16/01:41:13		the model saved into file SVM2
+2022-07-16/01:41:28		the model saved into file SVM1
+2022-07-16/01:41:35		the model saved into file SVM3
+2022-07-16/01:41:56		Model File KMeans saved
+2022-07-16/01:41:56		Correct model loaded
+2022-07-16/01:41:56		Model File SVM0 saved
+2022-07-16/01:41:56		Correct model loaded
+2022-07-16/01:41:56		Model File SVM2 saved
+2022-07-16/01:41:56		Correct model loaded
+2022-07-16/01:41:56		Model File SVM1 saved
+2022-07-16/01:41:56		Correct model loaded
+2022-07-16/01:41:56		Model File SVM3 saved
+2022-07-16/01:53:47		Model File KMeans saved
+2022-07-16/14:22:48		Model File KMeans saved
+2022-07-16/14:22:48		Correct model loaded
+2022-07-16/14:22:48		Model File SVM0 saved
+2022-07-16/14:22:48		Correct model loaded
+2022-07-16/14:22:48		Model File SVM2 saved
+2022-07-16/14:22:48		Correct model loaded
+2022-07-16/14:22:48		Model File SVM1 saved
+2022-07-16/14:22:48		Correct model loaded
+2022-07-16/14:22:48		Model File SVM3 saved
+2022-07-17/01:23:41		Model File KMeans saved
+2022-07-17/01:23:41		Correct model loaded
+2022-07-17/01:23:41		Model File SVM0 saved
+2022-07-17/01:23:41		Correct model loaded
+2022-07-17/01:23:41		Model File SVM2 saved
+2022-07-17/01:23:41		Correct model loaded
+2022-07-17/01:23:41		Model File SVM1 saved
+2022-07-17/01:23:41		Correct model loaded
+2022-07-17/01:23:41		Model File SVM3 saved
+2022-07-18/12:42:22		Model File KMeans saved
+2022-07-18/12:45:02		Model File KMeans saved
+2022-07-18/12:53:09		Model File KMeans saved
+2022-07-18/12:53:51		Model File KMeans saved
+2022-07-18/12:54:54		Model File KMeans saved
+2022-07-18/12:56:31		Model File KMeans saved
+2022-07-18/13:04:59		Model File KMeans saved
+2022-07-18/13:05:59		Model File KMeans saved
+2022-07-18/13:12:47		Model File KMeans saved
+2022-07-18/13:17:12		Model File KMeans saved
+2022-07-18/13:18:22		Model File KMeans saved
+2022-07-18/13:19:20		Model File KMeans saved
+2022-07-18/13:20:36		Model File KMeans saved
+2022-07-18/13:20:37		Correct model loaded
+2022-07-18/13:20:37		Model File SVM0 saved
+2022-07-18/14:03:19		Model File KMeans saved
+2022-07-18/14:03:20		Correct model loaded
+2022-07-18/14:03:20		Model File SVM0 saved
+2022-07-18/20:10:34		Model File KMeans saved
+2022-07-18/20:10:35		Correct model loaded
+2022-07-18/20:10:35		Model File SVM0 saved
+2022-07-18/20:11:55		Model File KMeans saved
+2022-07-18/20:11:55		Correct model loaded
+2022-07-18/20:11:55		Model File SVM0 saved
+2022-07-18/20:13:19		Model File KMeans saved
+2022-07-18/20:13:19		Correct model loaded
+2022-07-18/20:13:19		Model File SVM0 saved
+2022-07-20/01:49:50		Model File KMeans loaded
+2022-07-20/01:49:50		Correct model loaded
+2022-07-20/01:49:50		Model File SVM0 loaded

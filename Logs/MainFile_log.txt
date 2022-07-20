@@ -1,0 +1,47 @@
+2022-07-15/20:12:17		Error Occured : [Errno 2] No such file or directory: 'Training_Batch_Files/creditCardFraud_28011961_12.csv' 
+2022-07-15/20:13:46		Error Occured : [Errno 2] No such file or directory: 'Training_Batch_Files/creditCardFraud_28011961_12.csv' 
+2022-07-15/20:14:20		Error Occured : [Errno 2] No such file or directory: 'Training_Batch_Files/creditCardFraud_28011961_12.csv' 
+2022-07-15/20:14:49		Error Occured : [Errno 2] No such file or directory: 'Training_Batch_Files/creditCardFraud_28011961_12.csv' 
+2022-07-15/20:15:41		Error Occured : [Errno 2] No such file or directory: 'Training_Batch_Files/creditCardFraud_28011961_12.csv' 
+2022-07-15/20:16:17		Error Occured : [Errno 2] No such file or directory: 'Training_Batch_Files/creditCardFraud_28011961_12.csv' 
+2022-07-15/20:17:14		Error Occured : [Errno 2] No such file or directory: 'Training_Batch_Files/creditCardFraud_28011961_12.csv' 
+2022-07-15/20:17:34		Error Occured : [Errno 2] No such file or directory: 'Training_Batch_Files/creditCardFraud_28011961_12.csv' 
+2022-07-15/20:18:01		Error Occured : [Errno 2] No such file or directory: 'Training_Batch_Files/creditCardFraud_28011961_12.csv' 
+2022-07-15/20:18:43		Error Occured : [Errno 2] No such file or directory: 'Training_Batch_Files/creditCardFraud_28011961_12.csv' 
+2022-07-15/20:20:28		Error Occured : [Errno 2] No such file or directory: 'Training_Batch_Files/creditCardFraud_28011961_12.csv' 
+2022-07-15/20:22:08		Error Occured : [Errno 2] No such file or directory: 'Training_Batch_Files/creditCardFraud_28011961_12.csv' 
+2022-07-15/20:23:20		Error Occured : [Errno 2] No such file or directory: 'Training_Batch_Files/creditCardFraud_28011961_12.csv' 
+2022-07-15/20:28:02		Error Occured : 400 Bad Request: The browser (or proxy) sent a request that this server could not understand. 
+2022-07-15/20:29:48		Error Occured : 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'default payment next month Integer(20))' at line 1 
+2022-07-15/20:31:20		Error Occured : 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'default payment next month Integer(20))' at line 1 
+2022-07-15/20:33:01		Error Occured : 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'default payment next month Integer(20))' at line 1 
+2022-07-15/20:34:52		Error Occured : 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'default payment next month Integer(20))' at line 1 
+2022-07-15/20:35:24		Error Occured : 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'default payment next month Integer(20))' at line 1 
+2022-07-15/21:19:25		Error Occured : 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'default payment next month Integer(20))' at line 1 
+2022-07-15/21:22:16		Error Occured : 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'default payment next month Integer(20))' at line 1 
+2022-07-15/21:28:57		Error Occured : "['Wafer'] not found in axis" 
+2022-07-15/21:42:09		Error Occured : "['Wafer'] not found in axis" 
+2022-07-15/22:00:00		Error Occured : 'std' 
+2022-07-15/22:16:05		Error Occured : 'Applogger' object is not callable 
+2022-07-15/22:50:31		Error Occured : 'Applogger' object is not callable 
+2022-07-15/23:14:09		Error Occured : 'Applogger' object is not callable 
+2022-07-15/23:38:27		Error Occured : 'Applogger' object is not callable 
+2022-07-15/23:41:56		Error Occured : 'Applogger' object is not callable 
+2022-07-16/00:09:50		Error Occured : 'Applogger' object is not callable 
+2022-07-16/00:11:29		Error Occured : 'Applogger' object is not callable 
+2022-07-16/00:15:13		Error Occured : 'Applogger' object is not callable 
+2022-07-16/00:16:16		Error Occured : 'Applogger' object is not callable 
+2022-07-16/00:17:57		Error Occured : 'Applogger' object is not callable 
+2022-07-16/00:20:27		Error Occured : 'Applogger' object is not callable 
+2022-07-16/00:23:53		Error Occured : 'Applogger' object is not callable 
+2022-07-16/00:27:26		Error Occured : [WinError 32] The process cannot access the file because it is being used by another process: 'Logs/Prediction_Logs/prediction_log.txt' 
+2022-07-16/00:27:31		Error Occured : 'Applogger' object is not callable 
+2022-07-16/00:28:08		Error Occured : 'Applogger' object is not callable 
+2022-07-16/00:31:15		Error Occured : 'Applogger' object is not callable 
+2022-07-16/00:32:08		Error Occured : 'Applogger' object is not callable 
+2022-07-16/00:33:29		Error Occured : 'Applogger' object is not callable 
+2022-07-16/00:34:53		Error Occured : 'Applogger' object is not callable 
+2022-07-16/00:36:25		Error Occured : 'Applogger' object is not callable 
+2022-07-16/00:39:45		Error Occured : 'Wafer' 
+2022-07-16/00:44:30		Error Occured : name 'wafer_names' is not defined 
+2022-07-16/01:53:47		Error Occured : 'Applogger' object is not callable 

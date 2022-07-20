@@ -1,0 +1,97 @@
+2022-07-16/01:35:21		Information extracted from schema successfully !!
+2022-07-16/01:35:21		Manual regex created successfully
+2022-07-16/01:35:21		Bad_Raw folder deleted
+2022-07-16/01:35:21		Good_Raw folder deleted
+2022-07-16/01:35:21		good bad folder created for checking file name
+2022-07-16/01:35:21		creditCardFraud_28011960_120210.csv copied into Good_Raw folder
+2022-07-16/01:35:21		creditCardFraud_28011961_120211.csv copied into Good_Raw folder
+2022-07-16/01:35:21		creditCardFraud_28011962_120212.csv copied into Good_Raw folder
+2022-07-16/01:35:21		creditCardFraud_28011963_120213.csv copied into Good_Raw folder
+2022-07-16/01:35:21		creditCardFraud_28011964_120214.csv copied into Good_Raw folder
+2022-07-16/01:35:21		creditCardFraud_28011965_120215.csv copied into Good_Raw folder
+2022-07-16/01:35:21		creditCardFraud_28011966_120216.csv copied into Good_Raw folder
+2022-07-16/01:35:21		creditCardFraud_28011967_120217.csv copied into Good_Raw folder
+2022-07-16/01:35:21		creditCardFraud_28011968_120218.csv copied into Good_Raw folder
+2022-07-16/01:35:21		creditCardFraud_28011969_120219.csv copied into Good_Raw folder
+2022-07-16/01:35:21		creditCardFraud_28011970_120220.csv copied into Good_Raw folder
+2022-07-16/01:35:21		creditCardFraud_28011971_120221.csv copied into Good_Raw folder
+2022-07-16/01:35:21		creditCardFraud_28011972_120222.csv copied into Good_Raw folder
+2022-07-16/01:35:21		creditCardFraud_28011973_120223.csv copied into Good_Raw folder
+2022-07-16/01:35:21		creditCardFraud_28011974_120224.csv copied into Good_Raw folder
+2022-07-16/01:35:21		creditCardFraud_28011975_120225.csv copied into Good_Raw folder
+2022-07-16/01:35:21		creditCardFraud_28011976_120226.csv copied into Good_Raw folder
+2022-07-16/01:35:21		creditCardFraud_28011977_120227.csv copied into Good_Raw folder
+2022-07-16/01:35:21		creditCardFraud_28011978_120228.csv copied into Good_Raw folder
+2022-07-16/01:35:21		creditCardFraud_28011979_120229.csv copied into Good_Raw folder
+2022-07-16/01:35:21		creditCardFraud_28011980_120230.csv copied into Good_Raw folder
+2022-07-16/01:35:21		creditCardFraud_28011981_120231.csv copied into Good_Raw folder
+2022-07-16/01:35:21		creditCardFraud_28011982_120232.csv copied into Good_Raw folder
+2022-07-16/01:35:21		creditCardFraud_28011983_120233.csv copied into Good_Raw folder
+2022-07-16/01:35:21		creditCardFraud_28011984_120234.csv copied into Good_Raw folder
+2022-07-16/01:35:21		creditCardFraud_28011985_120235.csv copied into Good_Raw folder
+2022-07-16/01:35:21		creditCardFraud_28011986_120236.csv copied into Good_Raw folder
+2022-07-16/01:35:21		creditCardFraud_28011987_120237.csv copied into Good_Raw folder
+2022-07-16/01:35:21		creditCardFraud_28011988_120238.csv copied into Good_Raw folder
+2022-07-16/01:35:21		creditCardFraud_28011989_120239.csv copied into Good_Raw folder
+2022-07-16/01:35:21		creditCardFraud_28011990_120240.csv copied into Good_Raw folder
+2022-07-16/01:35:22		Null column validation started
+2022-07-16/01:35:23		Replacing missing values with "NULL" !!
+2022-07-16/01:35:23		Replaced missing values with "NULL" !!
+2022-07-16/01:35:23		Connection established successfully !!
+2022-07-16/01:35:24		alter table Good_Raw_Dataa!!
+2022-07-16/01:35:24		alter table Good_Raw_Dataa!!
+2022-07-16/01:35:24		alter table Good_Raw_Dataa!!
+2022-07-16/01:35:24		alter table Good_Raw_Dataa!!
+2022-07-16/01:35:24		alter table Good_Raw_Dataa!!
+2022-07-16/01:35:24		alter table Good_Raw_Dataa!!
+2022-07-16/01:35:24		alter table Good_Raw_Dataa!!
+2022-07-16/01:35:24		alter table Good_Raw_Dataa!!
+2022-07-16/01:35:24		alter table Good_Raw_Dataa!!
+2022-07-16/01:35:24		alter table Good_Raw_Dataa!!
+2022-07-16/01:35:24		alter table Good_Raw_Dataa!!
+2022-07-16/01:35:24		alter table Good_Raw_Dataa!!
+2022-07-16/01:35:24		alter table Good_Raw_Dataa!!
+2022-07-16/01:35:24		alter table Good_Raw_Dataa!!
+2022-07-16/01:35:25		alter table Good_Raw_Dataa!!
+2022-07-16/01:35:25		alter table Good_Raw_Dataa!!
+2022-07-16/01:35:25		alter table Good_Raw_Dataa!!
+2022-07-16/01:35:25		alter table Good_Raw_Dataa!!
+2022-07-16/01:35:25		alter table Good_Raw_Dataa!!
+2022-07-16/01:35:25		alter table Good_Raw_Dataa!!
+2022-07-16/01:35:25		alter table Good_Raw_Dataa!!
+2022-07-16/01:35:25		alter table Good_Raw_Dataa!!
+2022-07-16/01:35:25		alter table Good_Raw_Dataa!!
+2022-07-16/01:35:25		Connection established successfully !!
+2022-07-16/01:40:11		Good_Raw folder deleted
+2022-07-16/01:40:11		Bad files moved to archive
+2022-07-16/01:40:11		Bad Raw Data Folder Deleted successfully!!
+2022-07-16/01:40:11		Connection established successfully !!
+2022-07-16/01:40:12		Data Successfully Exported
+2022-07-16/01:35:21		Raw data validation started !!
+2022-07-16/01:35:21		Values form schema extracted : DateStamp_length-8, TimeStamp_length-6, num_of_Columns-24, col_Name-{'LIMIT_BAL': 'Integer', 'SEX': 'Integer', 'EDUCATION': 'Integer', 'MARRIAGE': 'Integer', 'AGE': 'Integer', 'PAY_0': 'Integer', 'PAY_2': 'Integer', 'PAY_3': 'Integer', 'PAY_4': 'Integer', 'PAY_5': 'Integer', 'PAY_6': 'Integer', 'BILL_AMT1': 'Integer', 'BILL_AMT2': 'Integer', 'BILL_AMT3': 'Integer', 'BILL_AMT4': 'Integer', 'BILL_AMT5': 'Integer', 'BILL_AMT6': 'Integer', 'PAY_AMT1': 'Integer', 'PAY_AMT2': 'Integer', 'PAY_AMT3': 'Integer', 'PAY_AMT4': 'Integer', 'PAY_AMT5': 'Integer', 'PAY_AMT6': 'Integer', 'default payment next month': 'Integer'} !!
+2022-07-16/01:35:21		Regex created for raw data filename validation !!
+2022-07-16/01:35:21		Raw data filename validation successful !!
+2022-07-16/01:35:22		Number of column in raw file validation successfully !!
+2022-07-16/01:35:23		Null column validation successful!!
+2022-07-16/01:35:23		Replacing missing values with "NULL" successful !!
+2022-07-16/01:35:23		Raw data validation complete !!
+2022-07-16/01:35:25		Table created successfully !!
+2022-07-16/01:40:11		Data insertion in table completed !!
+2022-07-16/01:40:11		Existing good raw data folder deleted !!
+2022-07-16/01:40:11		Bad raw data moved to archive successfully !!
+2022-07-16/01:40:12		Good raw data for training exported from database to csv file !!
+2022-07-16/01:40:12		Data loaded sucessfully!!
+2022-07-16/01:40:12		label and feature separation complete !!
+2022-07-16/01:40:12		missing value check complete !!
+2022-07-16/01:40:12		columns with zero std. deviation dropped !!
+2022-07-16/01:40:12		initializing clustering !!
+2022-07-16/01:40:12		calculating number of cluster using elbow method !!
+2022-07-16/01:40:15		No of cluster : 4!!
+2022-07-16/01:40:15		dividing the data into the clusters !!
+2022-07-16/01:40:15		Finding the best ML Algorithm to fit on each cluster!!
+2022-07-16/01:35:21		Training Started!!
+2022-07-16/01:35:21		object for train_validation() initialized
+2022-07-16/01:35:21		Training data validation Started!!
+2022-07-16/01:40:12		Training data validation completed!!
+2022-07-16/01:40:12		object for model_train() initialized!!
+2022-07-16/01:41:35		Training completed!!

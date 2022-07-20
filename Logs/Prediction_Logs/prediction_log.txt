@@ -1,0 +1,82 @@
+2022-07-17/01:23:20		regex created for checking file name : ['creditCardFraud']+['\_'']+[\d_]+[\d]+\.csv
+2022-07-17/01:23:20		good bad for checking file name
+2022-07-17/01:23:20		creditCardFraud_28011960_120210.csv copied into Good_Raw folder
+2022-07-17/01:23:20		creditCardFraud_28011961_12.csv copied into Bad_Raw folder
+2022-07-17/01:23:20		creditCardFraud_28011962_120212.csv copied into Good_Raw folder
+2022-07-17/01:23:20		creditCardFraud_28011963_120213.csv copied into Good_Raw folder
+2022-07-17/01:23:20		No of column validation started
+2022-07-17/01:23:20		<_io.TextIOWrapper name='Logs/Prediction_Logs/prediction_log.txt' mode='a+' encoding='cp1252'> moved to Bad_Raw folder
+2022-07-17/01:23:20		Null column validation started
+2022-07-17/01:23:20		Replacing missing values with Null completed!!
+2022-07-17/01:23:21		Connection established successfully !!
+2022-07-17/01:23:22		Connection established successfully !!
+2022-07-17/01:23:22		Connection established successfully !!
+2022-07-17/01:23:31		creditCardFraud_28011960_120210.csv loaded to database sucessfully!!
+2022-07-17/01:23:41		creditCardFraud_28011962_120212.csv loaded to database sucessfully!!
+2022-07-17/01:23:41		Good_Raw folder deleted
+2022-07-17/01:23:41		Bad files moved to archive
+2022-07-17/01:23:41		Bad Raw Data Folder Deleted successfully!!
+2022-07-17/01:23:41		Connection established successfully !!
+2022-07-17/01:23:20		Raw data validation started !!
+2022-07-17/01:23:20		Values form schema extracted : DateStamp_length-8, TimeStamp_length-6, num_of_Columns-23, col_Name-{'LIMIT_BAL': 'Integer', 'SEX': 'Integer', 'EDUCATION': 'Integer', 'MARRIAGE': 'Integer', 'AGE': 'Integer', 'PAY_0': 'Integer', 'PAY_2': 'Integer', 'PAY_3': 'Integer', 'PAY_4': 'Integer', 'PAY_5': 'Integer', 'PAY_6': 'Integer', 'BILL_AMT1': 'Integer', 'BILL_AMT2': 'Integer', 'BILL_AMT3': 'Integer', 'BILL_AMT4': 'Integer', 'BILL_AMT5': 'Integer', 'BILL_AMT6': 'Integer', 'PAY_AMT1': 'Integer', 'PAY_AMT2': 'Integer', 'PAY_AMT3': 'Integer', 'PAY_AMT4': 'Integer', 'PAY_AMT5': 'Integer', 'PAY_AMT6': 'Integer'} !!
+2022-07-17/01:23:20		Data collected from schema
+2022-07-17/01:23:20		regex creation successful !!
+2022-07-17/01:23:20		Raw data filename validation successful !!
+2022-07-17/01:23:20		Raw data number of columns validation successful !!
+2022-07-17/01:23:20		null column validation successful !!
+2022-07-17/01:23:20		Data transformation successful !!
+2022-07-17/01:23:20		Raw data validation completed !!
+2022-07-17/01:23:20		creating database and tables on the basis of schema!!
+2022-07-17/01:23:22		Database and table created!!
+2022-07-17/01:23:41		data inserted into table successfully!!
+2022-07-17/01:23:41		deleted exsisting Good_Raw folder successfully!!
+2022-07-17/01:23:41		Bad_Raw files moved to archive successfully!!
+2022-07-17/01:23:41		Data exported from db into csv file successfully!!
+2022-07-17/01:23:41		data loaded into pandas dataframe
+2022-07-17/01:23:41		Data loaded successfully
+2022-07-17/01:23:41		Preprocessing started !!
+2022-07-17/01:23:41		Missing values imputed !!
+2022-07-17/01:23:41		Column removed !!
+2022-07-17/01:23:41		Preprocessing ended!!
+2022-07-17/01:23:41		KMeans file loaded
+2022-07-17/01:23:41		Clusters created
+2022-07-17/01:23:41		Correct model loaded
+2022-07-17/01:23:41		Result exported in dataframe
+2022-07-17/01:23:41		Correct model loaded
+2022-07-17/01:23:41		Result exported in dataframe
+2022-07-17/01:23:41		Correct model loaded
+2022-07-17/01:23:41		Result exported in dataframe
+2022-07-17/01:23:41		Correct model loaded
+2022-07-17/01:23:41		Result exported in dataframe
+2022-07-17/01:23:41		End of Prediction
+2022-07-17/01:23:20		Prediction Started!!
+2022-07-17/01:23:20		object for pred_validation() initialized!!
+2022-07-17/01:23:20		Validation Started!!
+2022-07-17/01:23:41		prediction validation done!!
+2022-07-17/01:23:41		object for model_prediction() initialized!!
+2022-07-17/01:23:41		prediction done!!
+2022-07-17/01:23:41		Result returned
+2022-07-18/20:10:34		information collected from web ui
+2022-07-18/20:10:35		possible cluster predicted. cluster : 0th
+2022-07-18/20:10:35		model for cluster 0 is SVM0
+2022-07-18/20:10:35		Model loaded !!!
+2022-07-18/20:10:35		Prediction complete, returning the value!!
+2022-07-18/20:10:35		Result returned !!
+2022-07-18/20:11:55		information collected from web ui
+2022-07-18/20:11:55		possible cluster predicted. cluster : 0th
+2022-07-18/20:11:55		model for cluster 0 is SVM0
+2022-07-18/20:11:55		Model loaded !!!
+2022-07-18/20:11:55		Prediction complete, returning the value!!
+2022-07-18/20:11:55		Result returned !!
+2022-07-18/20:13:19		information collected from web ui
+2022-07-18/20:13:19		possible cluster predicted. cluster : 0th
+2022-07-18/20:13:19		model for cluster 0 is SVM0
+2022-07-18/20:13:19		Model loaded !!!
+2022-07-18/20:13:19		Prediction complete, returning the value!!
+2022-07-18/20:13:19		Result returned !!
+2022-07-20/01:49:50		information collected from web ui
+2022-07-20/01:49:50		possible cluster predicted. cluster : 0th
+2022-07-20/01:49:50		model for cluster 0 is SVM0
+2022-07-20/01:49:50		Model loaded !!!
+2022-07-20/01:49:50		Prediction complete, returning the value!!
+2022-07-20/01:49:50		Result returned !!
