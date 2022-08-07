@@ -20,6 +20,7 @@ This dataset contains information on default payments, demographic factors, cred
 3. DPR : https://drive.google.com/file/d/1NFH9bNqr4SF1nTB5QMykcO_OyvvQjuq1/view?usp=sharing
 4. Wireframe : https://drive.google.com/file/d/1XVpKViXmFe_Lcz6acAJIs6PCp7uRpAiM/view?usp=sharing
 
+## Cloud Server Deplloyment : https://credit-card-defaultation.herokuapp.com/
 ## Technical Aspect
 1. Dividing the training data into clusters and build best fitted model for each cluster ( using Random Forest and SVM algorithm) in order to make a robust model to predict defaulter as accurate as possible.
 	- Cleaning the datasets, fixing all features
